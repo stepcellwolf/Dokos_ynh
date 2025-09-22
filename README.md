@@ -22,7 +22,7 @@ Many features are available, such as accounting, billing, CRM, e-commerce, manuf
 
 
 
-**Shipped version:** 4.33.0~ynh1
+**Shipped version:** 4.61.0~ynh1
 
 ## Screenshots
 
